@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 author: "Nathan Angell"
-date: "9/21/2021"
 output: html_document
 ---
 
@@ -9,15 +8,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Summary
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Hello my name is Nathan Angell and I am a senior at Bryant University. For the past 3 and a half years I have been a data scientist working on many different projects. These projects have been through school, internships, and personal projects. Here is a highlight of most of the projects I did to showcase my skills I have learned these past couple of years. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Introduction to Programming (ISA 221)
 
-```{r cars}
-summary(cars)
-```
+For my first programming class, I started with no knowledge on how to code in python. Eventually, as the class and I started to dive into the book slowly but surely worked our way up to this simple program. This [program](ISA_221 start program.html) is able to take a list of 20 numbers and find the min, max, total, and average. 
 
 ## Including Plots
 
