@@ -12,19 +12,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hello my name is Nathan Angell and I am a senior at Bryant University. For the past 3 and a half years I have been a data scientist working on many different projects. These projects have been through school, internships, and personal projects. Here is a highlight of most of the projects I did to showcase my skills I have learned these past couple of years. 
 
-##1 Introduction to Programming (ISA 221)
+## 1 Introduction to Programming (ISA 221)
 
 - For my first programming class, I started with no knowledge on how to code in python. Eventually, as the class and I started to dive into the book slowly but surely, we worked our way up to this simple [program](ISA_221 start program.html) This program is able to take a list of 20 numbers and find the min, max, total, and average. 
 
 - By the time the course was almost over, we eventually created a program that was able to calculate invoices for an employee working for a company. This program was very invaluable because it taught me the basics of object originated programming and most importantly, even a simple program like this one can still be pretty complex to create. The program is broken up into four different files. 
   - The [Program 6](Program 6.html) file is the head node of how the program runs. This program then calls [Program 5a](program5a.html) and [Program 5](program5.html) for important functions for Program 6 to run. Finally, both of those programs call [Module 4](Module4.html) for more important functions to for those programs to run. 
 
-## Including Plots
+## 2 Database Management Systems Principles (ISA 341)
 
-You can also embed plots, for example:
+- My next programming class was called Database Management Systems Principles. This class is designed for students to teach them about MySQL and most importantly how relational databases work. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+- It first started off with how databases work and the different types of database designs that have been created over the past few years. We then moved over to MySQL, the most popular database query language in the world.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+- On the topic of MySQL, we intially created basic MySQL queries, [shown here](Assignment_1.pdf) and as the class progressed we transitioned to more complex SQL statements, [shown here](Assignment_6.pdf). The biggest difference between the first assignment we did to the second one, was the amount of data that was provided to us. First assignment we actually created our very small/ simple databases. We performed basic SQL commands, like highlighting a specific column or adding a column's values up. Once we got to the last assignment, we were grabbing data from a large CSV file and querying that data to our final results that you see on the bottom of every answer. These queries are much more complex than the first one, they really helped me to navigate the SQL environment and most importantly provide me the foundation I needed to understand any SQL query that I need to do for a job. 
