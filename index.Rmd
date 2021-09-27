@@ -26,3 +26,6 @@ Hello my name is Nathan Angell and I am a senior at Bryant University. For the p
 - It first started off with how databases work and the different types of database designs that have been created over the past few years. We then moved over to MySQL, the most popular database query language in the world.
 
 - On the topic of MySQL, we intially created basic MySQL queries, [shown here](Assignment_1.pdf) and as the class progressed we transitioned to more complex SQL statements, [shown here](Assignment_6.pdf). The biggest difference between the first assignment we did to the second one, was the amount of data that was provided to us. First assignment we actually created our very small/ simple databases. We performed basic SQL commands, like highlighting a specific column or adding a column's values up. Once we got to the last assignment, we were grabbing data from a large CSV file and querying that data to our final results that you see on the bottom of every answer. These queries are much more complex than the first one, they really helped me to navigate the SQL environment and most importantly provide me the foundation I needed to understand any SQL query that I need to do for a job. 
+
+
+## 
