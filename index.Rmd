@@ -12,9 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hello my name is Nathan Angell and I am a senior at Bryant University. For the past 3 and a half years I have been a data scientist working on many different projects. These projects have been through school, internships, and personal projects. Here is a highlight of most of the projects I did to showcase my skills I have learned these past couple of years. 
 
-## Introduction to Programming (ISA 221)
+##1 Introduction to Programming (ISA 221)
 
-For my first programming class, I started with no knowledge on how to code in python. Eventually, as the class and I started to dive into the book slowly but surely worked our way up to this simple program. This [program](ISA_221 start program.html) is able to take a list of 20 numbers and find the min, max, total, and average. 
+- For my first programming class, I started with no knowledge on how to code in python. Eventually, as the class and I started to dive into the book slowly but surely, we worked our way up to this simple [program](ISA_221 start program.html) This program is able to take a list of 20 numbers and find the min, max, total, and average. 
+
+- By the time the course was almost over, we eventually created a program that was able to calculate invoices for an employee working for a company. This program was very invaluable because it taught me the basics of object originated programming and most importantly, even a simple program like this one can still be pretty complex to create. The program is broken up into four different files. 
+  - The [Program 6](Program 6.html) file is the head node of how the program runs. This program then calls [Program 5a](program5a.html) and [Program 5](program5.html) for important functions for Program 6 to run. Finally, both of those programs call [Module 4](Module4.html) for more important functions to for those programs to run. 
 
 ## Including Plots
 
