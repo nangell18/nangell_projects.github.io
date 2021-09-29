@@ -60,7 +60,7 @@ Hello my name is Nathan Angell and I am a senior at Bryant University. For the p
   
 - [Final Project](final_project.html)
   
-#### 4: Introduction to Machine Learning
+#### 4: Introduction to Machine Learning (ISA 340)
 
 - For this class, my goal was to understand the different machine learning algorithms that are presently used in industry. Many companies use machine learning algorithms to predict what their customer might do next or something like computer vision. 
 - During the start of the class, it was difficult for me to understand the material. I had to constantly read over the material and talk to my colleagues in class to get a better grasp upon it. Fortunately, as the class progressed, my hard work and dedication started to pay off because the material was getting easier to understand. 
