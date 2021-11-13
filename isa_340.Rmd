@@ -1,0 +1,20 @@
+---
+title: "ISA 340"
+author: "Nathan Angell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Introduction to Machine Learning (ISA 340)
+
+For this class, my goal was to understand the different machine learning algorithms that are presently used in industry. Many companies use machine learning algorithms to predict what their customer might do next or something like computer vision. 
+
+During the start of the class, it was difficult for me to understand the material. I had to constantly read over the material and talk to my colleagues in class to get a better grasp upon it. Fortunately, as the class progressed, my hard work and dedication started to pay off because the material was getting easier to understand. 
+
+Our final project was to combine everything we have learned into one big project. This project entailed to do a lot of data engineering, that was almost 80% of our work, and the rest of the time was implementing our final models to our cleaned dataset.
+
+- This [attachment](Final_Models.html) showcases all the models
+- This [attachment](Final_EDA.html) showcases our data engineering

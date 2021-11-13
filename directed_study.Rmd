@@ -1,0 +1,29 @@
+---
+title: "Directed Study"
+author: "Nathan Angell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#### Research Intern - Directed Study: Application of Deep Learning
+
+This directed study was in collaboration with the data science and math department at Bryant University. My professor, Son Nguyen, wanted to create a project where we could research and study deep neural network models and be able to present our findings at the Analytics Without Borders conference. 
+
+Our goal was to be able to predict whether a person had or did not have pneumonia. For our project, we used a transfer learning model, developed by Google called MobileNetV2, to transfer its vast learning parameters to our prediction model. 
+
+We developed our notebook in Google Colab using Python as our language. The program look a long time to run but the results achieved an accuracy of around 93% with a transfer learning model. Without a transfer learning model, it was around 89%. 
+
+- The notebook Professor Son and I created without transfer learning is attached [here](bryant_pneumonia_without_transfer_learning.html)
+- The notebook with Transfer Learning Implemented is attached [here](pneumonia_transfer_learning.html)
+- This was my [presentation](final presentation.pptx) that I showcased at the Analytics Without Borders Conference. 
+
+
+
+
+
+
+

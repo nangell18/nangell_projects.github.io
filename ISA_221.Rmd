@@ -1,0 +1,20 @@
+---
+title: "ISA 221"
+author: "Nathan Angell"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### 1: Introduction to Programming
+
+- During my freshman year, I took my first programming course. I started off with no knowledge on how to code in python, and after a few weeks of work, I eventually worked my way up to this simple [program](ISA_221 start program.html). This program is able to take a list of 20 numbers and find the min, max, total, and average. 
+  - [Program](ISA_221 start program.html)
+
+- By the time the course was almost over, we eventually created a program that was able to calculate invoices for an employee working for a company. This program was very invaluable because it taught me the basics of object originated programming and most importantly, even a simple program like this one can still be pretty complex to create. The program is broken up into four different files. 
+  - The [Program 6](Program 6.html) file is the head node of how the program runs. This program then calls [Program 5a](program5a.html) and [Program 5](program5.html) for important functions for Program 6 to run. Finally, both of those programs call [Module 4](Module4.html) for more important functions to for those programs to run. 
+- [Program 6](Program 6.html)
+- [Program 5a](program5a.html)
+- [Program 5](program5.html)
+- [Module 4](Module4.html)

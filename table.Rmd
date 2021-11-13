@@ -1,15 +1,13 @@
 ---
-title: "Projects"
+title: "table"
+author: "Nathan Angell"
+date: "10/4/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-### Summary
-
-Hello my name is Nathan Angell and I am a senior at Bryant University. These projects, listed below, have been through school, directed studies, and personal projects. Here is a highlight of most of the projects I did to showcase my skills I have learned these past couple of years. 
 
 |             Project Name             | Project |  
 |:------------------------|:------------|

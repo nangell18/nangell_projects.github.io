@@ -1,0 +1,22 @@
+---
+title: "ISA 341"
+author: "Nathan Angell"
+date: "11/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Database Management Systems Principles (ISA 341)
+
+- My next programming class was called Database Management Systems Principles. This class is designed for students to teach them about MySQL and most importantly how relational databases work. 
+
+- It first started off with how databases work and the different types of database designs that have been created over the past few years. We then moved over to MySQL, the most popular database query language in the world.
+
+- On the topic of MySQL, the initial start was to created basic MySQL queries, [First SQL Assignment](Assignment_1.pdf) and as the class progressed we transitioned to more complex SQL statements, [Final SQL Assignment](Assignment_6.pdf).
+  - The biggest difference between the first assignment we did to the second one, was the amount of data that was provided to us. For our first assignment we actually created small databases to perform basic SQL commands. As an example, highlighting a specific column or adding a column's values up. 
+    - As we began working on the last assignment, we were grabbing data from a large CSV file and querying that data to our final results that you see on the bottom of every answer. These queries helped me navigate the SQL environment and most importantly provide me a foundation to understand additional sophisticated SQL queries. 
+- [First SQL Assignment](Assignment_1.pdf)
+- [Final SQL Assignment](Assignment_6.pdf)

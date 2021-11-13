@@ -1,0 +1,28 @@
+---
+title: "ISA 310"
+author: "Nathan Angell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Data Visualization
+First semester junior year, I took my first visualization course. This course taught me the importance of creating effective and simple graphs. Graphs are the **most** important tool to convey to your audience what information you are trying to present.
+
+We looked at all different kinds of graphs to understand their advantages and disadvantages, how can we make these graphs stand out, and the tricks to programmatically add additional features.
+
+This eventually led to our **[Final Project](final_project.html)** that encompassed all the teachings we learned throughout the semester. The data that I grabbed to make these plots were a little tricky, so I had to do some data engineering to fix it. 
+
+  - I then proceeded to make a decision tree to predict the amount of days a patient would stay in the hospital based upon which hospital you were staying at, the severity of the illness, which department you are going to, etc. 
+  
+  - Next I created a graphically friendly bar chart to showcase the total admission deposits for each hospital. 
+  
+  - Then a detailed pie chart to break a part the length of stays for all the patients.
+  
+  - A stacked bar chart to showcase how many visitors a hospital patient will receive based upon their length of stay.
+  
+  - A stacked area chart to showcase which department was the most visited.
+  
+  - Finally, a line graph that presented which days, January 1st 2008 to December 31st 2009, the hospital received the most amount of revenue.
