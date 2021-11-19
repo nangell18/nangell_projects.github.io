@@ -20,6 +20,7 @@ We developed our notebook in Google Colab using Python as our language. The prog
 - The notebook Professor Son and I created without transfer learning is attached [here](bryant_pneumonia_without_transfer_learning.html)
 - The notebook with Transfer Learning Implemented is attached [here](pneumonia_transfer_learning.html)
 - This was my [presentation](final presentation.pptx) that I showcased at the Analytics Without Borders Conference. 
+- If you would like to see the video I presented, this [link](https://drive.google.com/file/d/1FaNbIjxd0lh9bgtz5mEhEYqQZKX4LqhR/view?usp=sharing) will direct you. 
 
 
 
