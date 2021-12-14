@@ -6,6 +6,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+---------
+![](github.png)
+
+---------
 
 Hello my name is Nathan Angell. My life's dream is to become an expert in Artificial Intelligence (AI) and Machine Learning (ML) for the ultimate goal of creating intelligent systems to aid people to do more with less. The only way to train these AI or ML algorithms is through big data and that is where my other passion comes in, i.e. extracting, manipulating, and cleaning data. Out there in the real world, most data is unstructured, meaning that the information is not arranged according to a pre-set schema. It is up to me and many other data scientists to understand this data, turn this messy data to a preset model, and finally put this structured data into our AI/ ML algorithms. I welcome any of your questions: my email is nangell@bryant.edu. Listed below, are my most important projects that I have taken so far. 
 
