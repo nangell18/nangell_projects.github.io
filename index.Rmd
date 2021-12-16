@@ -21,3 +21,4 @@ Hello my name is Nathan Angell. My life's dream is to become an expert in Artifi
 | Database Management Systems Principles (ISA 341)          |      [341 Project](isa_341.html)        | SQL |
 | Data Visualization (ISA 310)                 |      [310 Project](isa_310.html)        | Python |
 | Introduction to Machine Learning (ISA 340)  |        [340 Project](isa_340.html)      | Python, Machine learning   |
+| Statistical Analysis in R (MATH 421)  |        [421 Assignments and Projects](https://nangell18.github.io/)      | R  |
