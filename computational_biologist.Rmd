@@ -16,7 +16,17 @@ We first started off with conducting research in the lab. The genome is structur
 
 So, we experimented with the process of 4C, Circular Chromosome Confirmation Capture, to map the chromatin loops in the Zebrafish embryos genome. We also used pipetts for the transportation of a specific amount of liquid. 
 
-The 4C process creates a lot of data that are not generally organized. So, we created a data pipeline that organizes and gets rid of unwanted data. ![data pipeline](data_pipeline.PNG)
+The 4C process creates a lot of data that are not generally organized. So, we created a data pipeline that organizes and gets rid of unwanted data. 
+
+```{r, fig.width = 4, echo=FALSE}
+library(knitr)
+library(ggplot2)
+library(png) 
+
+# Bigger fig.width
+img1_path <- "images/data_pipeline.PNG"
+include_graphics(img1_path)
+```
 
 We then added an additional step that would entail us to use a subset of Deep learning called Convolutional Neural Networks (CNN). That would identify supplemental chromatin connections within the 3D genome. 
 
