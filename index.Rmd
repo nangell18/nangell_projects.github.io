@@ -16,7 +16,7 @@ Hello my name is Nathan Angell. My life's dream is to become an expert in Artifi
 |             Project Name             | Project | Skills Learned |
 |:------------------------|:------------|:------------|
 | Research Intern - Winner of Analytics Without Borders Conference    |        [Research Project](directed_study.html)      |   Python   |
-| Computational Biologist  |              |   R, Linux Command shell |
+| Computational Biologist  |     [My Work](computational_biologist.html)         |   SnakeMake, Linux Command shell |
 | Introduction to Programming (ISA 221)              |       [221 Project](ISA_221.html)       | Python |
 | Database Management Systems Principles (ISA 341)          |      [341 Project](isa_341.html)        | SQL |
 | Data Visualization (ISA 310)                 |      [310 Project](isa_310.html)        | Python |

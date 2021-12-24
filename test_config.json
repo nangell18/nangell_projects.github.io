@@ -1,0 +1,11 @@
+{
+        "base_dir":"/data/inbre-bioinfo/",
+        "sample_dir":"Weicksel/pipe4C-master/example/",
+        "seq_dir":"Weicksel/practice1/testsmk/",
+        "trim_dir":"Trimmed/",
+        "aln_dir":"Alignments/",
+        "log_dir":"Logs/",
+        "bt2_index":"/data/inbre-bioinfo/Shared_Genome_Indexes/Indexes/GRCm39/GRCm39",
+        "paired":"FALSE"
+}
+

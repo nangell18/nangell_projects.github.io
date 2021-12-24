@@ -1,0 +1,28 @@
+---
+title: "Computational Biologist"
+author: "Nathan Angell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+During the summer of 2021, I had the opportunity to get involved with the [Summer Undergraduate Research Fellowship (SURF) program](https://web.uri.edu/rinsfepscor/surf/). I worked under [Professor Weicksel](https://departments.bryant.edu/science-and-technology/faculty/weicksel-steven) with my colleague Jarrod Dube and a couple other key members. My background is in data science but I wanted to combine the fields of data science and science because I believe that innovation comes through learning different subjects. 
+
+Our goal was to learn about science and being able to create a data pipeline that was able to identify Chromatin Regulatory Loops.
+
+We first started off with conducting research in the lab. The genome is structured in a 3D way consisting of chromatin loops. The problem that we realized is that many of the details that control and regulate these chromatin loops are not understood. 
+
+So, we experimented with the process of 4C, Circular Chromosome Confirmation Capture, to map the chromatin loops in the Zebrafish embryos genome. We also used pipetts for the transportation of a specific amount of liquid. 
+
+The 4C process creates a lot of data that are not generally organized. So, we created a data pipeline that organizes and gets rid of unwanted data. ![data pipeline](data_pipeline.PNG)
+
+We then added an additional step that would entail us to use a subset of Deep learning called Convolutional Neural Networks (CNN). That would identify supplemental chromatin connections within the 3D genome. 
+
+- My presentation that I presented at the 2021 Lightning Talk, info about the Lightning Talk can be found [here](https://web.uri.edu/riinbre/v-neric-2021/v-neric-lightning-talks/), and my presentation is [here](Final_Angell_Nathan.pptx).
+- My linux code is [here](test1.sh)
+- Jarrod and I also created snakemake files located here:
+  - [final snakemake file](test.smk)
+  - [additional resource](test_config.json)
+  - [additional resource](testsmk.sh)
