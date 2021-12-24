@@ -1,0 +1,29 @@
+---
+title: "A.I. and Robotics"
+author: "Nathan Angell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Video of me playing my board game
+
+Please **click** on this -- [link](https://youtu.be/aASOdzqZ2o4) -- to view myself playing the game of chomp with a minimax agent. 
+
+### What did I learn from AI and Robotics course?
+
+AI and robotics   was the best class that I have ever taken at Bryant hands down. I have learned a lot about what AI is and how it relates to a simple, yet complex, board game. AI was a very complex topic that had a lot of moving parts to it. From the beginning, I had no clue what any of the information Professor Blais was talking about. By the end of it, I was able to include all of what we learned and apply it to our final demo which was to create a working game from scratch and apply an agent towards it. 
+	
+One of the biggest lessons that I learned was understanding how to break a project into simple tasks, this is known as my logic. Breaking the logic down to the most simplest and detailed parts is important aspect for trying to create a program from scratch. None of the projects we have done does not take a rocket scientist to figure out, it just takes our logic and domain knowledge about AI. Once the logic is down, it is time to test if our logic is correct by programming our program. If it does not work, then back to the drawing board, if it does work then continue with the next simple task we have to do.
+	
+The next thing I learned was the power of debugging. The main way to debug is to print out **only the specific part** of the program that is not working correctly. Before, if my program was not working, I gave up. Now, I look at the part of the program that is not working, and I ask myself why is this happening? I then proceed to print out all the outputs, the program gets inputted, to see what numbers do not make sense or the variables that do not connect. 
+	
+Another thing that I learned about programming is how to assign variables. You can assign a variable say like robot to something like robot.move=20. Which is really cool because you do not need to create different variables for everything, you can just use your main variable and use the dot notation to assign other values to it to make your program understandable and easier read. 
+
+Talking to the smartest person in the classroom, is technically not the best way to figure out the way of doing things. What you should do is figure out the logic through a peer that is the on the same skill level as you. People that tend to be advanced programmers usually overcomplicate tasks. What I have learned is that simpler is always better. Knowing what the program did and how it did it, is very important. It makes the code run faster/ more efficient because it is a simpler program to run. 
+	
+I need to learn how to trust myself. I am capable of many things and having the self confidence to know that is important to understand. Without this understanding, I will be able to accomplish and figure out different problems and solutions. 
+	
+The last thing that I learned was the importance of deadlines. Deadlines is the most efficient way to complete a task. It cannot be “let us get it done by next week” no it has to be done “Monday at 4 pm”. That is the only way people will do their work. Partner up with someone in your class and work with him or her to make sure that you get the material done. Having a partner to do the work with you, will make sure that you complete your work and having someone to look over your logic. 
